@@ -8,7 +8,7 @@ Things you need to know:
 
 - You can use the sleep background mod with this macro, you just have to go into the config settings and disable the keyboard input restriction. Also if you are tech savy with sleepbackround, this macro supports the sleepbg.lock feature.
 
-- PauseOnLostFocus is required for every instance
+- PauseOnLostFocus must be disabled for every instance
 
 - If you don't know how to setup multi instance, watch spinnakers video: https://www.youtube.com/watch?v=FBqtOb3smOw
 
