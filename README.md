@@ -6,7 +6,7 @@ Things you need to know:
 
 - There is a bug that happens often where a given instance will "think" that you are active on that instance, even if that instance is not active. This causes your mouse cursor to move to the top of the screen and can be annoying and also illegal if it happens while you are playing another instance. There are features in this macro that fix this but sometimes it still happens upon instance launch, which in that case, you will need to tab into every instance that is launched. (I had to figure all of that out the hard way)
 
-- You can use the sleep background mod with this macro, you just have to go into the config settings and disable the keyboard input restriction. Also if you are tech savy with sleepbackround, this macro supports the sleepbg.lock feature.
+- You can use the sleep background mod with this macro, you just have to go into the config settings and disable the "polling_rate_limit" . Also if you are tech savy with sleepbackround, this macro supports the sleepbg.lock feature.
 
 - PauseOnLostFocus must be disabled for every instance
 
